@@ -15,4 +15,4 @@ A modern, lightweight file sharing server for Termux with a clean web interface.
 
 ### Method 1: One-line Install (Recommended)
 ```bash
-pkg update -y && pkg upgrade -y && pkg install -y git && git clone https://github.com/shofiqul3/cloud-share && cd cloud-share && chmod +x setup.sh && bash setup.sh
+pkg update -y && pkg upgrade -y && pkg install -y git && git clone https://github.com/shofiqul5/cloud-share && cd cloud-share && chmod +x setup.sh && bash setup.sh
